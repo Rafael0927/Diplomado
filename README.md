@@ -1,0 +1,2 @@
+# Diplomado
+Regresión Lineal Multiple
